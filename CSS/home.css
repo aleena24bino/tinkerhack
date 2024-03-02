@@ -50,3 +50,26 @@
     width:12vw;
     margin:10px;
 }
+.bg-doc-card {
+    background-color:#ffffff;
+    height:55vh;
+    width:50vh;
+    margin:10px;
+    border-radius: 5px;
+}
+.img-doc {
+    height:20vh;
+    width:100px;
+    border-radius:50px;
+    margin-left:100px;
+    margin-top:12px;
+}
+.bg-doc-rate {
+    background-color:#ebeff0;
+    width:100px;
+    color:gold;
+}
+.doc-para {
+    font-size:13px;
+    color:rgb(139, 123, 123);
+}
