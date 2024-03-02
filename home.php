@@ -154,7 +154,7 @@
      <!-- contact section starts -->
 <section class="contact" id="contact">
 
-<h1 class="heading"> Make appointment</h1>
+<h1 class="heading text-center"> MAKE  APPOINTMENT</h1>
 
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
    <?php
@@ -164,15 +164,25 @@
         }
        }
     ?>
-    <span>Your name :</span>
-    <input type="text" name="name" placeholder="enter your name" class="box" required>
-    <span>Your email :</span>
-    <input type="email" name="email" placeholder="enter your email" class="box" required>
-    <span>Your number :</span>
-    <input type="number" name="number" placeholder="enter your number" class="box" required>
-    <span>Appointment date :</span>
-    <input type="datetime-local" name="date" class="box" required>
-    <input type="submit" value="make appoinment" name="submit" class="link-btn">
+    <div class="bg-appoint pb-2 m-auto d-flex flex-column justify-content-center">
+      <div class="box-appear ">
+        <span>Your name :</span>
+        <input type="text" name="name" placeholder="enter your name" class="box" required>
+      </div>
+      <div class="box-appear">
+        <span>Your email :</span>
+        <input type="email" name="email" placeholder="abc@gmail.com" class="box" required>
+      </div>
+      <div class="box-appear">
+        <span>Your number :</span>
+        <input type="number" name="number" placeholder="+91 XXXXXXXXXX" class="box" required>
+      </div>
+      <div class="box-appear">
+        <span>Appointment date :</span>
+        <input type="datetime-local" name="date" class="box" required>
+      </div>
+      <input type="submit" value="Make Appoinment" name="submit" class="link-btn btn btn-primary">
+    </div>
  </form>
 </section>
 <!-- contact section starts -->

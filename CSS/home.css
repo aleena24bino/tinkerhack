@@ -30,3 +30,23 @@
     width:50px;
     font-size:30px
 }
+.bg-appoint {
+    background-color:#ebeff0;
+    width:30vw;
+    height:70vh;
+    border-radius: 5px;
+}
+.box-appear {
+    margin:10px;
+}
+.box {
+    width:28vw;
+    height:40px;
+    border-radius: 5px;
+    border-width:0px;
+}
+.link-btn {
+    text-align:left;
+    width:12vw;
+    margin:10px;
+}
