@@ -23,7 +23,7 @@
             <div class="navbar-nav m-auto">
                 <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
                 <a class="nav-link active" href="#abtusSection">About Us</a>
-                <a class="nav-link active" href="#">Services</a>
+                <a class="nav-link active" href="#servSection">Services</a>
                 <a class="nav-link active" href="#">Our Doctors</a>
                 <a class="nav-link active" href="#">Reviews</a>
                 <a class="nav-link active" href="#">Contact Us</a>
@@ -77,13 +77,22 @@
                 <div class="col-6">
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh_lDgnsYBpPCyMXy_TZ9qalH8PLIRSdhfmpUb_QLMQ&s" class="img-abt m-5"/>
                 </div>
-                <div class="col-6">
-                  <h6 class="abt-head">About Us</h6>
-                  <h1 class="abt-sub-head">True Healthcare For Your Family</h1>
-                  <p class="abt-para">At Dr Smiles we believe that patient care is of utmost importance. We strive to ensure that every dental visit is not just an appointment, but an experience. We provide comprehensive dental care for all age groups. Our team of highly trained and friendly professionals are committed to helping every individual maintain their oral health. We make use of the latest technologies and equipment to provide the highest quality of care to every patient.</p>
+                <div class="col-6 mt-5">
+                  <h4 class="abt-head">About Us</h4>
+                  <h2 class="">True Healthcare For Your Family</h2>
+                  <p class="">At Dr Smiles we believe that patient care is of utmost importance. We strive to ensure that every dental visit is not just an appointment, but an experience. We provide comprehensive dental care for all age groups. Our team of highly trained and friendly professionals are committed to helping every individual maintain their oral health. We make use of the latest technologies and equipment to provide the highest quality of care to every patient.</p>
                 </div>
             </div>
         </div>
+    </div>
+    <div class="" id="servSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h1>OUR SERVICES</h1>
+          </div>
+        </div>
+      </div>
     </div>
   </body>
 </html>
