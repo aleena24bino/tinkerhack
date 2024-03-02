@@ -137,5 +137,32 @@
       </div>
     </div>
 
+
+
+     <!-- contact section starts -->
+<section class="contact" id="contact">
+
+<h1 class="heading"> Make appointment</h1>
+
+<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
+   <?php
+       if(isset($message)){
+        foreach($message as $message){
+            echo '<p class="message">'.$message.'</p>';
+        }
+       }
+    ?>
+    <span>Your name :</span>
+    <input type="text" name="name" placeholder="enter your name" class="box" required>
+    <span>Your email :</span>
+    <input type="email" name="email" placeholder="enter your email" class="box" required>
+    <span>Your number :</span>
+    <input type="number" name="number" placeholder="enter your number" class="box" required>
+    <span>Appointment date :</span>
+    <input type="datetime-local" name="date" class="box" required>
+    <input type="submit" value="make appoinment" name="submit" class="link-btn">
+ </form>
+</section>
+<!-- contact section starts -->
   </body>
 </html>
