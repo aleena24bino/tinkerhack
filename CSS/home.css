@@ -14,3 +14,18 @@
 .abt-head {
     color:#41c2b7;
 }
+.bg-serv {
+    background-color:#ebeff0;
+    background-size: cover;
+}
+.bg-serv-card {
+    background-color:#ffffff;
+    height:30vh;
+    margin:10px;
+    border-radius:10px;
+}
+.serv-icon {
+    height:50px;
+    width:50px;
+    font-size:30px
+}

@@ -71,11 +71,11 @@
             </a>
         </div>
     </div>
-    <div class="bg-abtus p-3 m-5" id="abtusSection">
+    <div class="shadow bg-abtus p-3 m-5" id="abtusSection">
         <div class="container">
             <div class="row">
                 <div class="col-6">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh_lDgnsYBpPCyMXy_TZ9qalH8PLIRSdhfmpUb_QLMQ&s" class="img-abt m-5"/>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh_lDgnsYBpPCyMXy_TZ9qalH8PLIRSdhfmpUb_QLMQ&s" class="img-abt m-4"/>
                 </div>
                 <div class="col-6 mt-5">
                   <h4 class="abt-head">About Us</h4>
@@ -85,14 +85,57 @@
             </div>
         </div>
     </div>
-    <div class="" id="servSection">
+    <div class="bg-serv mb-5 d-flex flex-row justify-content-center" id="servSection">
       <div class="container">
         <div class="row">
-          <div class="col-12">
-            <h1>OUR SERVICES</h1>
+          <div class="col-12 mt-5">
+            <h1 class="text-center">OUR SERVICES</h1>
+          </div>
+          <div class="bg-serv-card w-50 col-12 col-md-4 d-flex flex-column justify-content-center">
+            <div class="serv-icon d-flex flex-row justify-content-center">
+              <i class="fa-solid fa-tooth"></i>
+            </div>
+            <h6>Alignment Specialist</h6>
+            <p>Orthodontic Consultation, Assessment of dental and facial structure, Diagnosis,Treatment Planning,Braces and Orthodontic Appliances...</p>
+          </div>
+          <div class="bg-serv-card col-12 col-md-4 d-flex flex-column justify-content-center">
+            <div class="serv-icon d-flex flex-row justify-content-center">
+              <i class="fa-solid fa-tooth"></i>
+            </div>
+            <h6>Cosmetic Dentistry</h6>
+            <p>Teeth Whitening,Dental Veneers,Dental Bonding,Smile Makeovers,Gum Contouring,Cosmetic Crowns and Bridges...</p>
+          </div>
+          <div class="bg-serv-card col-12 col-md-4 d-flex flex-column justify-content-center">
+            <div class="serv-icon d-flex flex-row justify-content-center">
+              <i class="fa-solid fa-tooth"></i>
+            </div>
+            <h6>Oral Hygiene Experts</h6>
+            <p>Routine Cleanings,Periodontal Maintenance,Oral Hygiene Education,Preventive Care,Treatment of Halitosis (Bad Breath)...</p>
+          </div>
+          <div class="bg-serv-card col-12 col-md-4 d-flex flex-column justify-content-center">
+            <div class="serv-icon d-flex flex-row justify-content-center">
+              <i class="fa-solid fa-tooth"></i>
+            </div>
+            <h6>Root Canal Specialist</h6>
+            <p>Root Canal Therapy,Apicoectomy,Treatment of Dental Trauma,Retreatment of Failed Root Canals...</p>
+          </div>
+          <div class="bg-serv-card col-12 col-md-4 d-flex flex-column justify-content-center">
+            <div class="serv-icon d-flex flex-row justify-content-center">
+              <i class="fa-solid fa-tooth"></i>
+            </div>
+            <h6>Live Dental Advisory</h6>
+            <p>Emergency Consultations,Treatment Planning,Second Opinions,Teleconsultations,Postoperative Care Instructions,Pain Management Advice...</p>
+          </div>
+          <div class="bg-serv-card col-12 col-md-4 d-flex flex-column justify-content-center">
+            <div class="serv-icon">
+              <i class="fa-solid fa-tooth"></i>
+            </div>
+            <h6>Cavity Inspection</h6>
+            <p>Clinical Examination,Dental X-rays,Caries Risk Assessment,Use of Diagnostic Tools,Visual Inspection with Magnification,,Digital Imaging Technology,Fluoride Assessment...</p>
           </div>
         </div>
       </div>
     </div>
+
   </body>
 </html>
