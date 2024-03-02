@@ -1,26 +1,3 @@
-
-<?php
-$conn = mysqli_connect('localhost', 'root', '', 'contact_db') or die('connection failed');
-
-if(isset($_POST['submit'])){
-   $name =  mysqli_real_escape_string($conn, $_POST['name']);
-   $email =  mysqli_real_escape_string($conn, $_POST['email']);
-   $number = $_POST['number'];
-   $date = $_POST['date'];
-
-   $insert = mysqli_query($conn, "INSERT INTO 'contact_form'(name, email , number, date)
-    VALUES('$name','$email', '$number','$date')") or die('query failed');
-   
-  if($insert){
-      $message[ ] = 'appointment made successfully!';
-  }
- else{
-       $message[ ]= 'appointment failed';
-       }
-}
-?>
-
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -165,7 +142,7 @@ if(isset($_POST['submit'])){
                 <i class="fa-solid fa-tooth"></i>
               </div>
               <h6>Cavity Inspection</h6>
-              <p>Clinical Examination,Dental X-rays,Caries Risk Assessment,Use of Diagnostic Tools,Visual Inspection with Magnification,,Digital Imaging Technology,Fluoride Assessment...</p>
+              <p>Clinical Examination,Dental X-rays,Caries Risk Assessment,Uses of Diagnostic Tools,Visual Inspection with Magnification,,Digital Imaging Technology,Fluoride Assessment...</p>
             </div>
           </div>
         </div>
