@@ -1,0 +1,19 @@
+.img-logo {
+    height: 90px;
+    width: 170px;
+    padding-left: 10px;
+}
+.bg-abtus {
+    background-color: #ffffff;
+    background-size:cover;
+}
+.img-abt {
+    height:50vh;
+    width:70vh;
+}
+.abt-head {
+    color:aqua;
+}
+.abt-sub-head {
+    
+}
