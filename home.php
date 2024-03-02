@@ -103,7 +103,7 @@ if(isset($_POST['submit'])){
                 <div class="col-6 mt-5">
                   <h4 class="abt-head">About Us</h4>
                   <h2 class="">True Healthcare For Your Family</h2>
-                  <p class="">At Dr Smiles we believe that patient care is of utmost importance. We strive to ensure that every dental visit is not just an appointment, but an experience. We provide comprehensive dental care for all age groups. Our team of highly trained and friendly professionals are committed to helping every individual maintain their oral health. We make use of the latest technologies and equipment to provide the highest quality of care to every patient.</p>
+                  <p class="">At Dr Smiles we believe that patient care is of utmost importance. We strive to ensure that every dental visit is not just an appointment, but an experience. We provide comprehensive dental care for all age groups. Our team of highly trained and friendly professionals are committed to helping every individual maintain their oral health. We uses the latest technologies and equipment to provide the highest quality of care to every patient.</p>
                 </div>
             </div>
         </div>
