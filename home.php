@@ -66,22 +66,22 @@ if(isset($_POST['submit'])){
                 <div class="carousel-item active">
                     <img src="https://st2.depositphotos.com/1017986/7171/i/450/depositphotos_71718843-stock-photo-happy-young-female-dentist-with.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>First slide label</h5>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3 class="head-caro">LET US BRIGHTEN YOUR SMILE</h3>
+                        <p class="para-caro">Your dental health is our delight!!</p>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="https://imgk.timesnownews.com/story/dentist.gif" class="d-block w-100 img-design" alt="...">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Second slide label</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3 class="head-caro">SMILE BRIGHT, LIVE LIGHT</h3>
+                        <p class="para-caro">We make dental visits a joy to bear!!</p>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="https://img.freepik.com/free-photo/photo-smiling-dentist-standing-with-arms-crossed-with-her-colleague-showing-okay-sign_496169-1043.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1708300800&semt=ais" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Third slide label</h5>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <h3 class="head-caro">WE ARE NOT JUST FIXING TEETH</h3>
+                        <p class="para-caro">We are creating smiles that breath!!</p>
                     </div>
                 </div>
             </div>
