@@ -38,30 +38,30 @@ Demo video : https://www.loom.com/share/658cb331f0ff4e65a7ddabc5d443ab6d?sid=75d
 ### Home Page
 Patient Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. The ‘Home’ page of our project.
 
-![image]()
+https://res.cloudinary.com/dmd5galka/image/upload/v1709446119/WhatsApp_Image_2024-03-03_at_11.06.48_AM_fnpoo9.jpg
 
 ### About Us Page
 'About Us' page allows us to get some more information about the quality and the services of the hospital.
 
-![image]()
+https://res.cloudinary.com/dmd5galka/image/upload/v1709446083/WhatsApp_Image_2024-03-03_at_11.06.48_AM_1_yqnjrj.jpg
 
 ### Services Page
 'Services' page allows users to know about the services provided by the hospital.
 
-![image]()
+https://res.cloudinary.com/dmd5galka/image/upload/v1709446099/WhatsApp_Image_2024-03-03_at_11.06.48_AM_2_msjclg.jpg
 
 ### Our Doctors Page
 'Our Doctors' page provides us the details about the available doctors.
 
-![image]()
+https://res.cloudinary.com/dmd5galka/image/upload/v1709446040/WhatsApp_Image_2024-03-03_at_11.06.48_AM_3_sylwgq.jpg
 
 ### Reviews Page 
 'Reviews' page gives the feedback of the patients.
 
-![image]()
+https://res.cloudinary.com/dmd5galka/image/upload/v1709446014/WhatsApp_Image_2024-03-03_at_11.06.48_AM_4_js1ava.jpg
 
 ### Contact Us Page
-‘Contact Us’ page allows users to provide feedback or queries about the services of the hospital.
+‘Contact Us’ page allows users to provide feedback or queries about the services of the hospital. We can also make appointments through this.
 
 https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg
 
