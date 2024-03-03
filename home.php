@@ -333,7 +333,7 @@
 
 
      <!-- contact section starts -->
-<section class="contact" id="contact">
+<section class="contact mb-3" id="contact">
 
 <h1 class="heading text-center"> MAKE  APPOINTMENT</h1>
 
@@ -356,7 +356,7 @@
       </div>
       <div class="box-appear">
         <span>Your number :</span>
-        <input type="number" name="number" placeholder="+91 XXXXXXXXXX" class="box" required>
+        <input type="number" name="number" placeholder="XXXXXXXXXX" class="box" required>
       </div>
       <div class="box-appear">
         <span>Appointment date :</span>
@@ -368,41 +368,48 @@
 </section>
 <!-- contact section starts -->
 
-<!-- footer section starts -->
-<BR>
-<BR>
-<section class="footer">
-
-  <div class="box-container">
-    <div class="box">
-    <i class="fas fa-phone"></i>
-    <h3>Phone number</h3>
-    <p>+91-9867566710, +91-8547682390</p>
+<div class="bg-foot" id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-3 d-flex flex-column justify-content-center">
+        <div class="box-icon">
+          <i class="fas fa-phone icon"></i>
+        </div>
+        <h3 class="text-center">Phone number</h3>
+        <p class="foot-para text-center">+91-9867566710, +91-8547682390</p>
+      </div>
+      <div class="col-3 d-flex flex-column justify-content-center">
+        <div class="box-icon appear">
+          <i class="fas fa-map-marker-alt icon"></i>
+        </div>
+        <h3 class="text-center">Our Address</h3>
+        <p class="foot-para text-center">Kalamassery,Kochi,India-682030</p>
+      </div>
+      <div class="col-3 d-flex flex-column justify-content-center">
+        <div class="box-icon">
+          <i class="fas fa-clock icon"></i>
+        </div>
+        <h3 class="text-center">Opening Hours</h3>
+        <p class="foot-para text-center">09:00AM to 04:00PM</p>
+      </div>
+      <div class="col-3 d-flex flex-column justify-content-center">
+        <div class="box-icon">
+          <i class="fas fa-envelope icon"></i>
+        </div>
+        <h3 class="text-center">Our Email</h3>
+        <p class="foot-para text-center">johnmathew08@gmail.com<br>ednageorge@gmail.com</p>
+      </div>
     </div>
-
-    <div class="box">
-    <i class="fas fa-map-marker-alt"></i>
-    <h3>Our Address</h3>
-    <p>Kalamassery,Kochi,India-682030</p>
-    </div>
-
-    <div class="box">
-    <i class="fas fa-clock"></i>
-    <h3>Opening Hours</h3>
-    <p>09:00AM to 04:00PM</p>
-    
-    </div>
-
-    <div class="box">
-    <i class="fas fa-envelope"></i>
-    <h3>Our Email</h3>
-    <p>johnmathew08@gmail.com</p>
-    <p>edna04@gmail.com</p>
-    </div>
-    
   </div>
-</section>
+</div>
+    
 
- <!-- footer section end --> 
+    
+
+    
+
+    
+    
+  </div> 
   </body>
 </html>
