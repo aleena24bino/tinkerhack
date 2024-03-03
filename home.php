@@ -356,7 +356,7 @@
       </div>
       <div class="box-appear">
         <span>Your number :</span>
-        <input type="number" name="number" placeholder="+91 XXXXXXXXXX" class="box" required>
+        <input type="number" name="number" placeholder="XXXXXXXXXX" class="box" required>
       </div>
       <div class="box-appear">
         <span>Appointment date :</span>
