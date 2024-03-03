@@ -64,21 +64,21 @@ if(isset($_POST['submit'])){
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="https://st2.depositphotos.com/1017986/7171/i/450/depositphotos_71718843-stock-photo-happy-young-female-dentist-with.jpg" class="d-block w-100" alt="...">
+                    <img src="https://st2.depositphotos.com/1017986/7171/i/450/depositphotos_71718843-stock-photo-happy-young-female-dentist-with.jpg" class="d-block img-caro" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h3 class="head-caro">LET US BRIGHTEN YOUR SMILE</h3>
                         <p class="para-caro">Your dental health is our delight!!</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="https://imgk.timesnownews.com/story/dentist.gif" class="d-block w-100 img-design" alt="...">
+                    <img src="https://imgk.timesnownews.com/story/dentist.gif" class="d-block img-caro" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h3 class="head-caro">SMILE BRIGHT, LIVE LIGHT</h3>
                         <p class="para-caro">We make dental visits a joy to bear!!</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="https://img.freepik.com/free-photo/photo-smiling-dentist-standing-with-arms-crossed-with-her-colleague-showing-okay-sign_496169-1043.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1708300800&semt=ais" class="d-block w-100" alt="...">
+                    <img src="https://img.freepik.com/free-photo/photo-smiling-dentist-standing-with-arms-crossed-with-her-colleague-showing-okay-sign_496169-1043.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1708300800&semt=ais" class="d-block img-caro" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h3 class="head-caro">WE ARE NOT JUST FIXING TEETH</h3>
                         <p class="para-caro">We are creating smiles that breath!!</p>
@@ -99,7 +99,7 @@ if(isset($_POST['submit'])){
         <div class="container">
             <div class="row">
                 <div class="col-6">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh_lDgnsYBpPCyMXy_TZ9qalH8PLIRSdhfmpUb_QLMQ&s" class="img-abt m-4"/>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh_lDgnsYBpPCyMXy_TZ9qalH8PLIRSdhfmpUb_QLMQ&s" class="img-abt mt-5"/>
                 </div>
                 <div class="col-6 mt-5">
                   <h4 class="abt-head">About Us</h4>
