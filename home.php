@@ -51,7 +51,8 @@ if(isset($_POST['submit'])){
                 <a class="nav-link active" href="#docSection">Our Doctors</a>
                 <a class="nav-link active" href="#revSection">Reviews</a>
                 <a class="nav-link active" href="#contact">Contact Us</a>
-                <button class="btn btn-primary ml-5" onclick="contact">Make Appointment</button>
+                <a href="#contact">
+                <button class="btn btn-primary ml-5" >Make Appointment</button></a>
             </div>
         </div>
   </nav>
@@ -386,7 +387,10 @@ if(isset($_POST['submit'])){
         <span>Appointment date :</span>
         <input type="datetime-local" name="date" class="box" required>
       </div>
-      <input type="submit" value="Make Appoinment" name="submit" class="link-btn btn btn-primary">
+      <input type="submit" value="Make Appoinment" name="submit" class="link-btn btn btn-primary" onclick="fun()">
+      <script>function fun(){
+        alert("APPOINTMENT SUCCESSFUL!!");
+      }</script>
     </div>
  </form>
 </section>
