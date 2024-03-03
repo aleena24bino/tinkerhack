@@ -63,4 +63,4 @@ Patient Management System in php and mysql. This system has a ‘Home’ page fr
 ### Contact Us Page
 ‘Contact Us’ page allows users to provide feedback or queries about the services of the hospital.
 
-![image]('https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg')
+![
