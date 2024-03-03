@@ -62,5 +62,5 @@ Patient Management System in php and mysql. This system has a ‘Home’ page fr
 
 ### Contact Us Page
 ‘Contact Us’ page allows users to provide feedback or queries about the services of the hospital.
-
-![
+https://imgur.com/KBI23Xv
+![App Screenshot](https://imgur.com/KBI23Xv)
