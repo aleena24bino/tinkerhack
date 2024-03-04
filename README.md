@@ -1,12 +1,12 @@
-# Patient Management System - 'Just Smile :)' Dental Hospital
+# PATIENT MANAGEMENT SYSTEM - 'Just Smile :)' Dental Hospital
 
 ## TABLE OF CONTENTS
 - [Introduction](#introduction)
-- Contributors
-- Prerequisites
-- Languages and Technologies Used
-- Steps to run the project in your machine
-- Getting into the Project
+- [Contributors](#contributors)
+- [Prerequisites](#prerequisites)
+- [Languages and Technologies Used](#languages-and-technologies-used)
+- [Steps to run the project in your machine](#steps-to-run-the-project-in-your-machine)
+- [Getting into the Project](#getting-into-the-project)
 
 ## INTRODUCTION
 Patient Management System for a Dental Hospital. It is made using HTML, CSS, Bootstrap, JavaScript, PHP and MySQL.
