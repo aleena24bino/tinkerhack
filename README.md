@@ -15,7 +15,7 @@ Specifically made for Tink-Her-Hack 2.O .
 Demo video : https://www.loom.com/share/658cb331f0ff4e65a7ddabc5d443ab6d?sid=75d55dd8-bbe2-4b58-9d2f-4cdc2f453c3b
 
 ## CONTRIBUTORS
-** Team Members: ** Anjali Georance, Aleena Bino, Meenakshi M Kumar, Meenakshi Pramod
+**Team Members:** Anjali Georance, Aleena Bino, Meenakshi M Kumar, Meenakshi Pramod
 
 ## PREREQUISITES
 1. Install XAMPP web server
