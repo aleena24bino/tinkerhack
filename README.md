@@ -11,6 +11,7 @@
 ## INTRODUCTION
 Patient Management System for a Dental Hospital. It is made using HTML, CSS, Bootstrap, JavaScript, PHP and MySQL.
 Specifically made for Tink-Her-Hack 2.O .
+The links of the images and demo video are attached.
 
 Demo video : https://www.loom.com/share/658cb331f0ff4e65a7ddabc5d443ab6d?sid=75d55dd8-bbe2-4b58-9d2f-4cdc2f453c3b
 
@@ -77,6 +78,11 @@ https://res.cloudinary.com/dmd5galka/image/upload/v1709446014/WhatsApp_Image_202
 ‘Contact Us’ page allows users to provide feedback or queries about the services of the hospital. We can also make appointments through this.
 
 https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg
+
+### Make Appointment Page
+- 'Make Appointment' page allows users to make their appointments with the doctors by providing the details such as name, email, phone number and the convenient appointment date.
+- After making the appointment a dialog box appears which says if the appointment made is successful or not.
+- https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg
 
 ### Database
 'XAMPP Server' is used for mysql with php.
