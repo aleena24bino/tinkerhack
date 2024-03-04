@@ -1,15 +1,28 @@
-# Patient Management System - Just Smile Dental Hospital
-Patient Management System Using HTML, CSS, Bootstrap, JavaScript, PHP and MySQL
+# Patient Management System - 'Just Smile :)' Dental Hospital
+
+## TABLE OF CONTENTS
+- Introduction
+- Contributors
+- Prerequisites
+- Languages and Technologies Used
+- Steps to run the project in your machine
+- Getting into the Project
+
+## INTRODUCTION
+Patient Management System for a Dental Hospital. It is made using HTML, CSS, Bootstrap, JavaScript, PHP and MySQL.
+Specifically made for Tink-Her-Hack 2.O .
 
 Demo video : https://www.loom.com/share/658cb331f0ff4e65a7ddabc5d443ab6d?sid=75d55dd8-bbe2-4b58-9d2f-4cdc2f453c3b
 
+## CONTRIBUTORS
+**Team Members:**Anjali Georance, Aleena Bino, Meenakshi M Kumar, Meenakshi Pramod
 
-## Prerequisites
+## PREREQUISITES
 1. Install XAMPP web server
 2. Any Editor (Preferably VS Code or Sublime Text)
 3. Any web browser with latest version
 
-## Languages and Technologies used
+## LANGUAGES AND TECHNOLOGIES USED
 1. HTML5/CSS3
 2. JavaScript (to create dynamically updating content)
 3. Bootstrap (An HTML, CSS, and JS library)
@@ -17,7 +30,7 @@ Demo video : https://www.loom.com/share/658cb331f0ff4e65a7ddabc5d443ab6d?sid=75d
 5. Php
 6. MySQL (An RDBMS that uses SQL)
 
-## Steps to run the project in your machine
+## STEPS TO RUN THE PROJECT IN YOUR MACHINE
 1. Download and install XAMPP in your machine
 2. Clone or download the repository
 3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
@@ -28,7 +41,7 @@ Demo video : https://www.loom.com/share/658cb331f0ff4e65a7ddabc5d443ab6d?sid=75d
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
 9. Hurray! That's it!
 
-### SOFTWARES USED
+### Softwares Used
   - XAMPP was installed and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/foldername
   - Visual Studios Code was used as a text editor.
   - Google Chrome was used to run the project (localhost/foldername was used as the url).
@@ -65,6 +78,6 @@ https://res.cloudinary.com/dmd5galka/image/upload/v1709446014/WhatsApp_Image_202
 
 https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg
 
-###Database
+### Database
 'XAMPP Server' is used for mysql with php.
 https://res.cloudinary.com/dmd5galka/image/upload/v1709445866/WhatsApp_Image_2024-03-03_at_11.06.49_AM_yh8rsr.jpg
