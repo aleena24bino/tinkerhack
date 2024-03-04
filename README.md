@@ -1,7 +1,7 @@
 # Patient Management System - 'Just Smile :)' Dental Hospital
 
 ## TABLE OF CONTENTS
-- Introduction
+- [Introduction](#introduction)
 - Contributors
 - Prerequisites
 - Languages and Technologies Used
