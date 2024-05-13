@@ -52,38 +52,48 @@ Demo video : https://www.loom.com/share/658cb331f0ff4e65a7ddabc5d443ab6d?sid=75d
 ### Home Page
 Patient Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. The ‘Home’ page of our project.
 
-https://res.cloudinary.com/dmd5galka/image/upload/v1709446119/WhatsApp_Image_2024-03-03_at_11.06.48_AM_fnpoo9.jpg
+![Screenshot (248)](https://github.com/aleena24bino/tinkerhack/assets/118409571/8cd6e27e-21d8-4a09-bef7-1e4858aff328)
+Link:https://res.cloudinary.com/dmd5galka/image/upload/v1709446119/WhatsApp_Image_2024-03-03_at_11.06.48_AM_fnpoo9.jpg
 
 ### About Us Page
 'About Us' page allows us to get some more information about the quality and the services of the hospital.
 
-https://res.cloudinary.com/dmd5galka/image/upload/v1709446083/WhatsApp_Image_2024-03-03_at_11.06.48_AM_1_yqnjrj.jpg
+![Screenshot (249)](https://github.com/aleena24bino/tinkerhack/assets/118409571/cf49ef03-c5ad-4660-8e5f-9f1c256a46cc)
+Link:https://res.cloudinary.com/dmd5galka/image/upload/v1709446083/WhatsApp_Image_2024-03-03_at_11.06.48_AM_1_yqnjrj.jpg
 
 ### Services Page
 'Services' page allows users to know about the services provided by the hospital.
 
-https://res.cloudinary.com/dmd5galka/image/upload/v1709446099/WhatsApp_Image_2024-03-03_at_11.06.48_AM_2_msjclg.jpg
+![Screenshot (250)](https://github.com/aleena24bino/tinkerhack/assets/118409571/a284edd3-f75e-473e-a75d-3eb08b8876c7)
+Link:https://res.cloudinary.com/dmd5galka/image/upload/v1709446099/WhatsApp_Image_2024-03-03_at_11.06.48_AM_2_msjclg.jpg
 
 ### Our Doctors Page
 'Our Doctors' page provides us the details about the available doctors.
 
-https://res.cloudinary.com/dmd5galka/image/upload/v1709446040/WhatsApp_Image_2024-03-03_at_11.06.48_AM_3_sylwgq.jpg
+![Screenshot (251)](https://github.com/aleena24bino/tinkerhack/assets/118409571/3dbc6cc8-b724-4289-ac91-1afeaa12b9f3)
+Link:https://res.cloudinary.com/dmd5galka/image/upload/v1709446040/WhatsApp_Image_2024-03-03_at_11.06.48_AM_3_sylwgq.jpg
 
 ### Reviews Page 
 'Reviews' page gives the feedback of the patients.
 
-https://res.cloudinary.com/dmd5galka/image/upload/v1709446014/WhatsApp_Image_2024-03-03_at_11.06.48_AM_4_js1ava.jpg
+![Screenshot (252)](https://github.com/aleena24bino/tinkerhack/assets/118409571/8f08b659-c869-4cea-8979-516c12bd93e2)
+Link:https://res.cloudinary.com/dmd5galka/image/upload/v1709446014/WhatsApp_Image_2024-03-03_at_11.06.48_AM_4_js1ava.jpg
 
 ### Contact Us Page
 ‘Contact Us’ page allows users to provide feedback or queries about the services of the hospital. We can also make appointments through this.
 
-https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg
+![Screenshot (253)](https://github.com/aleena24bino/tinkerhack/assets/118409571/a1e1b96c-1a6e-4311-ae55-75c4f48d6105)
+Link:https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg
 
 ### Make Appointment Page
 - 'Make Appointment' page allows users to make their appointments with the doctors by providing the details such as name, email, phone number and the convenient appointment date.
 - After making the appointment a dialog box appears which says if the appointment made is successful or not.
-- https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg
+
+ ![Screenshot (253)](https://github.com/aleena24bino/tinkerhack/assets/118409571/56214b48-ac95-4ac7-9557-ec6f89d5064d)
+Link:https://res.cloudinary.com/dmd5galka/image/upload/v1709444564/WhatsApp_Image_2024-03-03_at_11.06.49_AM_1_xn2v8o.jpg
 
 ### Database
 'XAMPP Server' is used for mysql with php.
-https://res.cloudinary.com/dmd5galka/image/upload/v1709445866/WhatsApp_Image_2024-03-03_at_11.06.49_AM_yh8rsr.jpg
+
+![Screenshot (254)](https://github.com/aleena24bino/tinkerhack/assets/118409571/eac801d8-b49f-4f77-b12c-0336b6f9dca9)
+Link:https://res.cloudinary.com/dmd5galka/image/upload/v1709445866/WhatsApp_Image_2024-03-03_at_11.06.49_AM_yh8rsr.jpg
